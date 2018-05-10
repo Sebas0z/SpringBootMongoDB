@@ -1,12 +1,12 @@
-package com.example.springbootmongodb;
-
+package com.co.ceiba.repository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootmongodbApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootmongodbApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
+
 }
